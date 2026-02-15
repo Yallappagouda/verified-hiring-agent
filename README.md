@@ -855,4 +855,25 @@ Decision: Shortlist ✓
 
 ---
 
+
+🌍 Live Deployment
+
+This application is deployed using Streamlit Community Cloud.
+
+🔗 Access the App:
+
+👉 https://verified-hiring-agentgitgitpush-uoriginmain-evhtrec52egzlzurta.streamlit.app/
+
+☁️ Deployment Platform:
+
+Streamlit Community Cloud
+
+Python 3.9+
+
+Automatic dependency installation via requirements.txt
+
+📌 Note:
+
+Evaluation history (history.json) and verification metadata (agentfacts.json) are stored temporarily in the cloud environment and reset on redeploy due to ephemeral storage. Verification functionality remains fully operational.
+
 **Made for Hackathon • Built with ❤️ • Verified with 🔐**
