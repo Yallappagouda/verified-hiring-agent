@@ -1,1 +1,22 @@
+{
+  "agent_name": "Verified AI Hiring Assistant",
+  "version": "1.0",
+  "policy_checks": {
+    "bias_check": "pass",
+    "data_sanitization": "pass",
+    "scoring_integrity": "pass"
+  },
+  "merkle_root": "example_merkle_root_hash",
+  "signature": "example_hmac_sha256_signature",
+  "logs": [
+    {
+      "ts": "2026-02-15T10:23:45Z",
+      "action": "candidate_evaluated",
+      "details": {
+        "score": 78,
+        "decision": "Shortlist"
+      }
+    }
+  ]
+}
 
