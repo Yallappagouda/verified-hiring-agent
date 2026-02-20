@@ -1,6 +1,6 @@
 # Verified AI Hiring Assistant
 
-**A Hackathon-Ready AI Hiring Evaluation Platform with Trust & Verification**
+
 
 A modern, explainable candidate evaluation system built with Python and Streamlit. This project demonstrates a production-grade hiring assistant that combines AI-driven candidate scoring with verifiable trust mechanisms (AgentFacts, Merkle roots, and cryptographic signatures).
 
